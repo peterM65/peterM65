@@ -3,19 +3,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Peter+Mamdouh!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate software developer from Egypt</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a chat app**
+ 🔭 I'm a Full Stack Developer
  
- 🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
+ 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 
- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💬 experience with C# , SQL Server , and ASP .Net Core, or anything related to web development.
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
  
  </div>
  
@@ -36,8 +36,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,cs,html,css,vscode,github,dotnet,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,angular,javascript,typescript,github,reactivex,mongodb,c,java,nextjs,sqlite,azure" /><br>
 </div>
 
 <br/>
